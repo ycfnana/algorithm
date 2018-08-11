@@ -1,4 +1,4 @@
-// ConsoleApplication8.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌÐòµÄÈë¿Úµã¡£
+// ConsoleApplication8.cpp : å®šä¹‰æŽ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
@@ -13,7 +13,7 @@ using namespace std;
 int a[10000];
 int indexB[10000];
 int indexA[10000];
-//¹é²¢
+//å½’å¹¶
 void sort(int start,int end){
 	int mid = (start + end) / 2;
 	if (end - start > 1){
